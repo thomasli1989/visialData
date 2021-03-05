@@ -1,0 +1,1 @@
+pyinstaller -F rw_visual.py
